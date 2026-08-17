@@ -15,8 +15,8 @@ Yared Garage App is a comprehensive software solution meticulously crafted to st
 
 To install Yared Garage App, simply follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/yared-garage-app.git`
-2. Navigate to the project directory: `cd yared-garage-app`
+1. Clone the repository: `git clone https://github.com/danibirukti/Yared-Garage-Main-App.git`
+2. Navigate to the project directory: `cd Yared-Garage-Main-App`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 
