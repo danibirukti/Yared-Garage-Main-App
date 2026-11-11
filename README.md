@@ -37,3 +37,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any inquiries or feedback regarding Yared Garage App, please contact us at [gediondaniel321@gmail.com](mailto:gediondaniel321@gmail.com).
+
+## Maintenance Notes
+
+- 2026-11-11: Performed the scheduled README maintenance review.
